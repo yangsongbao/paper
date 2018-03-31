@@ -5,3 +5,6 @@
 ### 比特币
 1. 英文：https://bitcoin.org/bitcoin.pdf
 2. 中文：https://zhuanlan.zhihu.com/p/28108862
+
+### java
+1. AQS: http://gee.cs.oswego.edu/dl/papers/aqs.pdf
